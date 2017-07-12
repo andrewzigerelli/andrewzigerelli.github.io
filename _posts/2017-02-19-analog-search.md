@@ -19,6 +19,6 @@ Enter this paper: Energy Efficient Data Encoding in DRAM channels exploiting Dat
 The basic idea of this paper is to minimize the energy of data transfers by transfering bitwise differences of
 similar words. The "Data Value similarity" refers to [Hamming
 distance](https://en.wikipedia.org/wiki/Hamming_distance). 
-Small consistent cahces are kept on both sides of the data bus for the translation purposes. The novel idea (at
+Small consistent caches are kept on both sides of the data bus for the translation purposes. The novel idea (at
 least to me) is how the hardware that the authors propose adding to DRAM
 searches for a similar value.
