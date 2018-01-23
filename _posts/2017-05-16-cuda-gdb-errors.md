@@ -17,7 +17,7 @@ you narrow the results.
 For my case, `grep '201,'` yields `cuda.h:    CUDA_ERROR_INVALID_CONTEXT = 201,` 
 
 cudaMalloc doesn't return this code, so something is happening at the driver
-level. Anyway, I found the error code information[here](https://www.cs.cmu.edu/afs/cs/academic/class/15668-s11/www/cuda-doc/html/group__CUDA__TYPES_g0cdead942fd5028d157641eef6bdeeaa.html#gg0cdead942fd5028d157641eef6bdeeaaa484e9af32c1e9893ff21f0e0191a12d)
+level. Anyway, I found the error code information [here](https://www.cs.cmu.edu/afs/cs/academic/class/15668-s11/www/cuda-doc/html/group__CUDA__TYPES_g0cdead942fd5028d157641eef6bdeeaa.html#gg0cdead942fd5028d157641eef6bdeeaaa484e9af32c1e9893ff21f0e0191a12d)
 
 The relevant information is this: 
 `..This can also be returned if a user mixes different API versions (i.e. 3010

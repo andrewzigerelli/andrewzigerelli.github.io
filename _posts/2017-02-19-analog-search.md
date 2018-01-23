@@ -14,7 +14,7 @@ usually used for analog. They are used digitally.
 
 I then "believed" that all computer processing was digital.
 
-Enter this paper: Energy Efficient Data Encoding in DRAM channels exploiting Data Value Similarity.
+Enter this paper: [Energy Efficient Data Encoding in DRAM channels exploiting Data Value Similarity](/papers/p719-seol.pdf).
 
 The basic idea of this paper is to minimize the energy of data transfers by transfering bitwise differences of
 similar words. The "Data Value similarity" refers to [Hamming
