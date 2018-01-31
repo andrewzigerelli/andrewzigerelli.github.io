@@ -8,7 +8,7 @@ timezone: America/Detroit
 # This is used by feed.xml. Uncomment if you want to use it.
 # description: "..."
 
-gems:
+plugins:
   - jemoji
   - jekyll-gist
 exclude:
