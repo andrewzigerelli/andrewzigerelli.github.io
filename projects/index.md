@@ -3,8 +3,8 @@ layout: default
 title: Work
 ---
 # Papers
-PEP: Proactive Checkpointing for Efficient Preemption on GPUs. \[[pdf](../papers/pep-p.pdf)\]<br />
-****DAC 2018*. Chen Li, **Andrew Zigerelli**, Jun Yang, Yang Guo
+PEP: Proactive Checkpointing for Efficient Preemption on GPUs. \[[pdf](../papers/pep-p.pdf)\]DAC 2018.<br />
+Chen Li, _**Andrew Zigerelli**, Jun Yang, Yang Guo
 
 # Past Projects
 
