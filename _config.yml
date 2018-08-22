@@ -11,6 +11,7 @@ timezone: America/Detroit
 plugins:
   - jemoji
   - jekyll-gist
+  - jekyll-gallery-generator
 exclude:
   - "README.md"
   - "CHANGELOG.md"
