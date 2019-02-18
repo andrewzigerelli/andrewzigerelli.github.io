@@ -3,8 +3,12 @@ layout: default
 title: Work
 ---
 # Papers
+A Dynamic and Proactive GPU Preemption Mechanism using
+Checkpointing\[[pdf](../papers/gpu_preempt-tcad.pdf)\]. TCAD 2019.<br />
+Chen Li, **Andrew Zigerelli**, Jun Yang Youtao Zhang, Sheng Ma, Yang Guo.
+
 PEP: Proactive Checkpointing for Efficient Preemption on GPUs\[[pdf](../papers/pep-p.pdf)\]. DAC 2018.<br />
-Chen Li, **Andrew Zigerelli**, Jun Yang, Yang Guo
+Chen Li, **Andrew Zigerelli**, Jun Yang, Yang Guo.
 
 # Past Projects
 
