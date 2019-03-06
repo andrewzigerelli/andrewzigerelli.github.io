@@ -1,0 +1,20 @@
+# OS cruft
+.DS_Store
+._*
+
+# python
+__pycache__/
+venv
+.venv
+archivebox/.venv
+archivebox/venv
+
+# vim
+.swp*
+
+# output artifacts
+output
+output/
+data
+data/
+archivebox/output
