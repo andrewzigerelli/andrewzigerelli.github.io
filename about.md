@@ -5,11 +5,10 @@ permalink: about/index.html
 ---
 
 # About
-I am a PhD student in the ECE department at the University of Pittsburgh.
+I **was* in a PhD program at the University of Pittsburgh in Electrical and
+Computer Engineering. In January 2021, I decided to leave the program. 
 
-I'm currently advised by [Jun Yang](http://www.pitt.edu/~juy9/) and [Youtao
-Zhang](http://people.cs.pitt.edu/~zhangyt/). 
+****I'm currently on the job market****.** 
 
-This website serves, in part, as a project to learn
-[Jekyll](https://jekyllrb.com/), which enables one to blog using plaintext and
-markdown. 
+I focused on GPUs in the beginning, but switched to security. I focused mainly
+on hardware side channels. I like cryptography. 
